@@ -1,0 +1,84 @@
+{
+
+    "frames":
+    [
+        
+        {
+            "filename": "boxCoin.png",
+            "frame": {"x":0,"y":0,"w":70,"h":70},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+            "sourceSize": {"w":70,"h":70},
+            "spriteColorRect": {"x":0,"y":0,"w":70,"h":70},
+            "spriteOffset": {"x":0, "y":-0},
+            "spriteSize": {"w":70, "h":70}
+        },
+        {
+            "filename": "castleCenter.png",
+            "frame": {"x":210,"y":0,"w":70,"h":70},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+            "sourceSize": {"w":70,"h":70},
+            "spriteColorRect": {"x":0,"y":0,"w":70,"h":70},
+            "spriteOffset": {"x":0, "y":-0},
+            "spriteSize": {"w":70, "h":70}
+        },
+        {
+            "filename": "door_closedMid.png",
+            "frame": {"x":70,"y":0,"w":70,"h":70},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+            "sourceSize": {"w":70,"h":70},
+            "spriteColorRect": {"x":0,"y":0,"w":70,"h":70},
+            "spriteOffset": {"x":0, "y":-0},
+            "spriteSize": {"w":70, "h":70}
+        },
+        {
+            "filename": "door_openMid.png",
+            "frame": {"x":140,"y":0,"w":70,"h":70},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+            "sourceSize": {"w":70,"h":70},
+            "spriteColorRect": {"x":0,"y":0,"w":70,"h":70},
+            "spriteOffset": {"x":0, "y":-0},
+            "spriteSize": {"w":70, "h":70}
+        },
+        {
+            "filename": "sandCenter.png",
+            "frame": {"x":280,"y":0,"w":70,"h":70},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+            "sourceSize": {"w":70,"h":70},
+            "spriteColorRect": {"x":0,"y":0,"w":70,"h":70},
+            "spriteOffset": {"x":0, "y":-0},
+            "spriteSize": {"w":70, "h":70}
+        }
+    ],
+
+    "meta":
+    {
+
+        "app": "http://zwoptexapp.com",
+        "version": "1.6.0",
+        "image": "tiles.png",
+        "size": {"w":512,"h":256},
+        "name": "Untitled",
+        "premultipliedAlpha": false,
+        "target": {
+            "name": "default",
+            "textureFileName": "tiles",
+            "textureFileExtension": ".png",
+            "coordinatesFileName": "tiles",
+            "coordinatesFileExtension": ".json",
+            "premultipliedAlpha": false
+        },
+        "scale": "1"
+
+    }
+
+}
